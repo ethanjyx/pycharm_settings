@@ -1,0 +1,32 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.61" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="INSPECTION_FILTER_HISTORY" value="MOD" />
+    <property name="KEYMAP" value="navigate&#10;caret&#10;cursor&#10;go to&#10;copy" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPython" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="SettingsSearchHistory" value="inspec&#10;scope&#10;inspection&#10;copy&#10;save" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.183" value="13" />
+    <property name="export.settings.marked" value="keymap.xml|" />
+    <property name="file.gist.reindex.count" value="13686" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="lastTip" value="64" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="typescript.show.auto.import" value="true" />
+  </component>
+</application>
