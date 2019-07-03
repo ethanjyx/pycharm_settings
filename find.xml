@@ -16,7 +16,7 @@
     <mask>*.mxml</mask>
     <mask>data_collector.py</mask>
     <mask>python*.py</mask>
-    <mask>*.yaml</mask>
     <mask>*.py</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
