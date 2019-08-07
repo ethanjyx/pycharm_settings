@@ -20,7 +20,7 @@
     <mask>flir</mask>
     <mask>*flir*</mask>
     <mask>*knapp*</mask>
-    <mask>BUILD</mask>
     <mask>*.py</mask>
+    <mask>BUILD</mask>
   </component>
 </application>
