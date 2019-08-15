@@ -6,6 +6,7 @@
       <mapping pattern="systa" type="PLAIN_TEXT" />
       <mapping pattern="GenpickDataWriter.py" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping ext="bzl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
