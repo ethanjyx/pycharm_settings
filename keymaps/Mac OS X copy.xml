@@ -36,14 +36,15 @@
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="meta y" />
-    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="meta d" second-keystroke="meta d" />
   </action>
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="right" />
+    <keyboard-shortcut first-keystroke="meta d" second-keystroke="right" />
   </action>
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="left" />
+    <keyboard-shortcut first-keystroke="meta d" second-keystroke="left" />
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorLineEnd">
@@ -100,10 +101,6 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="meta 2" />
-  </action>
-  <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="shift meta i" />
-    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="RemoteHostView.Rename" />
   <action id="RenameElement">
