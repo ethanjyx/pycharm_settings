@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="BUILD" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,12 +21,12 @@
     <mask>*flir*</mask>
     <mask>*knapp*</mask>
     <mask>*test*</mask>
-    <mask>BUILD</mask>
     <mask>camera</mask>
     <mask>*.yaml</mask>
     <mask>*.md</mask>
     <mask>backend*</mask>
     <mask>*.py</mask>
     <mask>*</mask>
+    <mask>BUILD</mask>
   </component>
 </application>
