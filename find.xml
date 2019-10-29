@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -25,7 +26,6 @@
     <mask>camera</mask>
     <mask>*.md</mask>
     <mask>backend*</mask>
-    <mask>*.py</mask>
     <mask>*</mask>
     <mask>BUILD</mask>
     <mask>*yaml</mask>
@@ -33,5 +33,6 @@
     <mask>knapp</mask>
     <mask>model*</mask>
     <mask>*.yaml</mask>
+    <mask>*.py</mask>
   </component>
 </application>
