@@ -21,7 +21,6 @@
     <mask>camera</mask>
     <mask>backend*</mask>
     <mask>*</mask>
-    <mask>BUILD</mask>
     <mask>*yaml</mask>
     <mask>cloudexec*</mask>
     <mask>knapp</mask>
@@ -29,5 +28,6 @@
     <mask>*.yaml</mask>
     <mask>*.md</mask>
     <mask>*.py</mask>
+    <mask>BUILD</mask>
   </component>
 </application>
