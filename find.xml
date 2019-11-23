@@ -29,5 +29,6 @@
     <mask>*.md</mask>
     <mask>*.py</mask>
     <mask>BUILD</mask>
+    <mask>*.ini</mask>
   </component>
 </application>
