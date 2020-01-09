@@ -32,5 +32,6 @@
     <mask>build</mask>
     <mask>BUILD</mask>
     <mask>*.md</mask>
+    <mask>*attribute*</mask>
   </component>
 </application>
