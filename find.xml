@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -24,7 +25,6 @@
     <mask>cloudexec*</mask>
     <mask>knapp</mask>
     <mask>model*</mask>
-    <mask>*.py</mask>
     <mask>*.ini</mask>
     <mask>*.sh</mask>
     <mask>*.yaml</mask>
@@ -33,5 +33,6 @@
     <mask>*.md</mask>
     <mask>*attribute*</mask>
     <mask>*vis*</mask>
+    <mask>*.py</mask>
   </component>
 </application>
