@@ -26,12 +26,12 @@
     <mask>model*</mask>
     <mask>*.ini</mask>
     <mask>*.sh</mask>
-    <mask>*.yaml</mask>
     <mask>build</mask>
     <mask>BUILD</mask>
     <mask>*.md</mask>
     <mask>*attribute*</mask>
     <mask>*vis*</mask>
     <mask>*.py</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
