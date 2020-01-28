@@ -4,6 +4,7 @@
     <extensionMap>
       <removed_mapping ext="bzl" approved="true" type="BUILD" />
       <mapping pattern="GenpickDataWriter.py" type="PLAIN_TEXT" />
+      <mapping pattern="ppi-trace" type="PLAIN_TEXT" />
       <mapping pattern="encrypt_cuda_ops" type="PLAIN_TEXT" />
       <mapping pattern="systa" type="PLAIN_TEXT" />
       <mapping pattern="find_target_data_files" type="PLAIN_TEXT" />
