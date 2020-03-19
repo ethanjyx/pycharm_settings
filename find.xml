@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -30,8 +31,8 @@
     <mask>*attribute*</mask>
     <mask>*vis*</mask>
     <mask>README.md</mask>
-    <mask>*.py</mask>
     <mask>*.yaml</mask>
     <mask>*.md</mask>
+    <mask>*.py</mask>
   </component>
 </application>
