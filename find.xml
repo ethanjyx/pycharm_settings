@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -32,8 +33,8 @@
     <mask>*attribute*</mask>
     <mask>*vis*</mask>
     <mask>README.md</mask>
-    <mask>*.yaml</mask>
     <mask>*.py</mask>
     <mask>*.md</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
