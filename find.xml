@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.xml</mask>
+    <option name="FILE_MASK" value="test*.py" />
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -33,5 +33,6 @@
     <mask>*.yaml</mask>
     <mask>BUILD</mask>
     <mask>*.pb</mask>
+    <mask>test*.py</mask>
   </component>
 </application>
