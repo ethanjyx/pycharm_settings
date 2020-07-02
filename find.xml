@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.proto" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>data_collector.py</mask>
@@ -30,8 +31,8 @@
     <mask>BUILD</mask>
     <mask>*.pb</mask>
     <mask>test*.py</mask>
-    <mask>*.proto</mask>
     <mask>*h5*</mask>
     <mask>test*</mask>
+    <mask>*.proto</mask>
   </component>
 </application>
