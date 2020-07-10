@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>data_collector.py</mask>
@@ -24,7 +27,6 @@
     <mask>*attribute*</mask>
     <mask>*vis*</mask>
     <mask>README.md</mask>
-    <mask>*.py</mask>
     <mask>*.md</mask>
     <mask>*.yaml</mask>
     <mask>BUILD</mask>
@@ -33,5 +35,6 @@
     <mask>*h5*</mask>
     <mask>test*</mask>
     <mask>*.proto</mask>
+    <mask>*.py</mask>
   </component>
 </application>
