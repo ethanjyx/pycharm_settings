@@ -33,7 +33,7 @@
     <mask>*.py</mask>
     <mask>test*</mask>
     <mask>knapp*</mask>
-    <mask>*.md</mask>
     <mask>BUILD</mask>
+    <mask>*.md</mask>
   </component>
 </application>
