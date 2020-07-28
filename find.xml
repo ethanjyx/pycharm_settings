@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.proto" />
     <mask>*.mxml</mask>
     <mask>data_collector.py</mask>
     <mask>python*.py</mask>
@@ -29,11 +28,11 @@
     <mask>*.pb</mask>
     <mask>test*.py</mask>
     <mask>*h5*</mask>
-    <mask>*.proto</mask>
     <mask>*.py</mask>
     <mask>knapp*</mask>
     <mask>BUILD</mask>
     <mask>*.md</mask>
     <mask>test*</mask>
+    <mask>*.proto</mask>
   </component>
 </application>
