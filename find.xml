@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.proto" />
+    <option name="FILE_MASK" value="*handler.py" />
     <mask>data_collector.py</mask>
     <mask>python*.py</mask>
     <mask>flir</mask>
@@ -31,8 +31,8 @@
     <mask>knapp*</mask>
     <mask>BUILD</mask>
     <mask>*.md</mask>
-    <mask>*handler.py</mask>
     <mask>test*</mask>
     <mask>*.proto</mask>
+    <mask>*handler.py</mask>
   </component>
 </application>
