@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.md" />
     <mask>python*.py</mask>
     <mask>flir</mask>
     <mask>*flir*</mask>
@@ -29,9 +30,9 @@
     <mask>BUILD</mask>
     <mask>*handler.py</mask>
     <mask>*.py</mask>
-    <mask>*.md</mask>
     <mask>test*</mask>
     <mask>*lighthouse*</mask>
     <mask>*.proto</mask>
+    <mask>*.md</mask>
   </component>
 </application>
