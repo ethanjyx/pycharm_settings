@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="test*" />
     <mask>flir</mask>
     <mask>*flir*</mask>
     <mask>*knapp*</mask>
@@ -31,7 +32,7 @@
     <mask>*.proto</mask>
     <mask>*.md</mask>
     <mask>constants.py</mask>
-    <mask>test*</mask>
     <mask>*.py</mask>
+    <mask>test*</mask>
   </component>
 </application>
