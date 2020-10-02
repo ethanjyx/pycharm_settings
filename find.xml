@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>flir</mask>
+    <option name="FILE_MASK" value="conversion" />
     <mask>*flir*</mask>
     <mask>*knapp*</mask>
     <mask>*test*</mask>
@@ -35,5 +35,6 @@
     <mask>constants.py</mask>
     <mask>*.py</mask>
     <mask>test*</mask>
+    <mask>conversion</mask>
   </component>
 </application>
