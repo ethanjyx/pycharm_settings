@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*flir*</mask>
     <mask>*knapp*</mask>
     <mask>*test*</mask>
@@ -28,10 +29,10 @@
     <mask>*lighthouse*</mask>
     <mask>*.proto</mask>
     <mask>constants.py</mask>
-    <mask>*.py</mask>
     <mask>test*</mask>
     <mask>conversion</mask>
     <mask>*.md</mask>
     <mask>*.yaml</mask>
+    <mask>*.py</mask>
   </component>
 </application>
