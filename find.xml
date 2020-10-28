@@ -20,7 +20,6 @@
     <mask>*vis*</mask>
     <mask>README.md</mask>
     <mask>*.pb</mask>
-    <mask>test*.py</mask>
     <mask>*h5*</mask>
     <mask>knapp*</mask>
     <mask>BUILD</mask>
@@ -33,5 +32,6 @@
     <mask>*.md</mask>
     <mask>*.yaml</mask>
     <mask>*.py</mask>
+    <mask>test*.py</mask>
   </component>
 </application>
