@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*handler.py" />
     <mask>*flir*</mask>
     <mask>*knapp*</mask>
     <mask>*test*</mask>
@@ -24,7 +24,6 @@
     <mask>*h5*</mask>
     <mask>knapp*</mask>
     <mask>BUILD</mask>
-    <mask>*handler.py</mask>
     <mask>*lighthouse*</mask>
     <mask>*.proto</mask>
     <mask>constants.py</mask>
@@ -34,5 +33,6 @@
     <mask>*.yaml</mask>
     <mask>test*.py</mask>
     <mask>*.py</mask>
+    <mask>*handler.py</mask>
   </component>
 </application>
