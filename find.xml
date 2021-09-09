@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*knapp*</mask>
     <mask>*test*</mask>
     <mask>camera</mask>
     <mask>backend*</mask>
@@ -33,5 +32,6 @@
     <mask>*.proto</mask>
     <mask>*handler.py</mask>
     <mask>*.py</mask>
+    <mask>*.graphql</mask>
   </component>
 </application>
