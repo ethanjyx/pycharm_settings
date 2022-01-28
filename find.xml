@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
-    <mask>camera</mask>
+    <option name="FILE_MASK" value="requirements.txt" />
     <mask>backend*</mask>
     <mask>*</mask>
     <mask>*yaml</mask>
@@ -34,5 +33,6 @@
     <mask>*.graphql</mask>
     <mask>Dockerfile</mask>
     <mask>*.py</mask>
+    <mask>requirements.txt</mask>
   </component>
 </application>
