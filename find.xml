@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="requirements.txt" />
     <mask>*</mask>
     <mask>*yaml</mask>
     <mask>cloudexec*</mask>
@@ -28,10 +29,10 @@
     <mask>*.proto</mask>
     <mask>*handler.py</mask>
     <mask>*.graphql</mask>
-    <mask>requirements.txt</mask>
     <mask>*.json</mask>
     <mask>*.py</mask>
     <mask>*.md</mask>
     <mask>Dockerfile</mask>
+    <mask>requirements.txt</mask>
   </component>
 </application>
