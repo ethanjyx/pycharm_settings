@@ -5,6 +5,7 @@
       <mapping pattern="DockerfileAutomationQC" type="AUTO_DETECTED" />
       <mapping pattern="liveramp_cpu" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileSectionQueueing" type="AUTO_DETECTED" />
+      <mapping pattern="DockerfileSecAnnoPostProcessing" type="AUTO_DETECTED" />
       <mapping pattern="find_target_data_files" type="PLAIN_TEXT" />
       <mapping pattern="ppi-trace" type="PLAIN_TEXT" />
       <mapping pattern="encrypt_cuda_ops" type="PLAIN_TEXT" />
