@@ -9,7 +9,6 @@
     <mask>knapp</mask>
     <mask>model*</mask>
     <mask>*.ini</mask>
-    <mask>*.sh</mask>
     <mask>build</mask>
     <mask>*attribute*</mask>
     <mask>*vis*</mask>
@@ -33,5 +32,6 @@
     <mask>*.md</mask>
     <mask>Dockerfile</mask>
     <mask>requirements.txt</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
