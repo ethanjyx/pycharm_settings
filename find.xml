@@ -3,8 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*</mask>
-    <mask>*yaml</mask>
     <mask>cloudexec*</mask>
     <mask>knapp</mask>
     <mask>model*</mask>
@@ -33,5 +31,7 @@
     <mask>requirements.txt</mask>
     <mask>*.sh</mask>
     <mask>*.py</mask>
+    <mask>*.txt</mask>
+    <mask>Dockerfile*</mask>
   </component>
 </application>
