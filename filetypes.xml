@@ -13,6 +13,7 @@
       <mapping pattern="systa" type="PLAIN_TEXT" />
       <mapping ext="sls" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
+      <mapping ext="typed" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
       <removed_mapping ext="bzl" approved="true" type="BUILD" />
       <removed_mapping ext="bzl" approved="true" type="PLAIN_TEXT" />
