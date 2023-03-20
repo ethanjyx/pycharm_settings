@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="Dockerfile" />
     <mask>model*</mask>
     <mask>*.ini</mask>
     <mask>build</mask>
@@ -25,7 +26,6 @@
     <mask>*.graphql</mask>
     <mask>*.json</mask>
     <mask>*.md</mask>
-    <mask>Dockerfile</mask>
     <mask>requirements.txt</mask>
     <mask>*.sh</mask>
     <mask>*.py</mask>
@@ -33,5 +33,6 @@
     <mask>Dockerfile*</mask>
     <mask>.txt</mask>
     <mask>config</mask>
+    <mask>Dockerfile</mask>
   </component>
 </application>
