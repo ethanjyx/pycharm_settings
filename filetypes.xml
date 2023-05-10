@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="DockerfileAutomationQC" type="AUTO_DETECTED" />
       <mapping pattern="liveramp_cpu" type="AUTO_DETECTED" />
+      <mapping pattern="DockerfileLLM" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileSectionQueueing" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileSecAnnoPostProcessing" type="AUTO_DETECTED" />
       <mapping pattern="find_target_data_files" type="PLAIN_TEXT" />
